@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
- React app that uses the [The Rick and Morty API](https://rickandmortyapi.com) for retreiving characters information and render it on cards.
+ React app that uses the <a href="https://rickandmortyapi.com">The Rick and Morty API</a> for retreiving characters information and render it on cards.
 </td>
 </tr>
 </table>
